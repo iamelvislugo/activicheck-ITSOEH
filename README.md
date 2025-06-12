@@ -73,12 +73,11 @@ activicheck-ITSOEH
 
 ## 🎨 Prototipo UX/UI (Wireframes y Flujos de Usuario)
 
-###📂 Wireframes por flujo
-Puedes consultar los wireframes en la carpeta [Wireframes](activicheck-ITSOEH/Wireframes), donde se encuentran en formato PDF, organizados por perfil.
+#### 📂 Wireframes por flujo
+Puedes consultar los wireframes en la carpeta [Wireframes](./Wireframes), donde se encuentran en formato PDF, organizados por perfil.
 
-### 🔗 Prototipo interactivo en Figma
+#### 🔗 Prototipo interactivo en Figma
 Accede al prototipo interactivo completo desde el siguiente enlace:
-
 👉  [Ver prototipo en Figma](https://www.figma.com/proto/9BOv5Vgdb0bdylQ2vJUcPO/Flujos-Usuario---ActivyCheck?node-id=1-113&starting-point-node-id=40%3A1384&t=Bjp471CgbwITx6xE-1)
 
 ---
