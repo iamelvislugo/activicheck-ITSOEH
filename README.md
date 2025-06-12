@@ -88,8 +88,9 @@ Este proyecto fue realizado con fines académicos como parte de un trabajo unive
 
 ---
 
-## ✍️ Autor
+## Datos de contacto
 
-### Elvis Jesus Martinez Lugo  
-- LinkedIn: https://www.linkedin.com/in/elvis-jesus-martinez-lugo
-- Email: martinezlugoelvisjesus7@gmail.com
+- 🧑‍💻 Autor: *Elvis Jesus Martinez Lugo*
+- 📫 Email: martinezlugoelvisjesus7@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/elvis-jesus-martinez-lugo](https://www.linkedin.com/in/elvis-jesus-martinez-lugo)
+
