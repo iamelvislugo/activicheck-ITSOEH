@@ -1,4 +1,4 @@
-# 📱 Prototipo - Actividades Complementarias | ITSOEH
+# 📱 Proyecto ActiviCheck - Prototipo de aplicación móvil para Registro y Control de Actividades Complementarias de ITSOEH
 
 Este repositorio contiene el diseño del prototipo UX/UI para una aplicación móvil enfocada en la gestión de actividades complementarias dentro del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo (ITSOEH). El prototipo fue creado como parte de un proyecto académico y refleja los flujos de interacción para tres perfiles clave: Alumno, Instructor y Coordinador.
 
@@ -6,7 +6,7 @@ Este repositorio contiene el diseño del prototipo UX/UI para una aplicación m�
 
 ## 🎯 Objetivo del Proyecto
 
-Diseñar un prototipo funcional y visualmente accesible para una aplicación móvil que permita a los usuarios (alumnos, instructores y coordinadores) gestionar de forma eficiente las actividades complementarias en el entorno institucional. Este diseño busca mejorar la experiencia de usuario, digitalizar procesos manuales y facilitar el seguimiento de la asistencia y el rendimiento académico.
+Diseñar un prototipo funcional y visualmente accesible para una aplicación móvil que permita a los usuarios (alumnos, instructores y coordinadores) gestionar de forma eficiente las actividades complementarias en el entorno institucional. Este diseño busca mejorar la experiencia de usuario, digitalizar procesos manuales y facilitar el seguimiento de la asistencia y mejorar la experiencia de usuario mediante una interfaz intuitiva, accesible y bien estructurada.
 
 ---
 
